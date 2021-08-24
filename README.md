@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-- In this project I will be implementing a Hotel Management System. This system is going to be responsible for managing a hotel for a single day. Some clients are going to check in, some other clients are going to check out and some rooms need to be cleaned. 
+- This is a Hotel-Management-System project. This system is going to be responsible for managing a hotel for a single day. Some clients are going to check in, some other clients are going to check out and some rooms need to be cleaned. 
 - HotelManagementSystem class needs to implement the provided interface IManagementSystem. 
 - I have used Vector as a data structure to store rooms and clients. 
 - Additionally, I have used the Graph data structure to organize the wing plan and cleaning procedure.
