@@ -26,7 +26,7 @@ A hotel consists of rooms, clients and wings.
 
 ## 4. Wings and Cleaning Process
 
- - Wings have an unique ID and a name.
+- Wings have an unique ID and a name.
 - When the organizeCleaning() method is called all the rooms waiting to be cleaned need to be cleaned, respecting their priority. Moreover the rooms need to be cleaned in the most efficient way (following the shortest path between the wings).
 - Cleaning starts from the wing with most number of rooms to be cleaned.
 - The priority rule: Family rooms have priority over Double rooms.
